@@ -3,12 +3,20 @@ layout: default
 title: Blue Lion Travels
 ---
 <div class="jumbotron">
-	<div class="container">
 	<h1>Welcome to Blue Lion Travels!</h1>
 	<p>
 		We are a travel agency dedicated to giving you the best travel advice for 
 		locations featured in the second half of <em>Out of Many</em>, 5th 
 		edition. Click on the images below for different cities!
 	</p>
-	</div>
 </div> <!-- /jumbotron -->
+
+<div class="row">
+{% for post in site.posts %}
+	<div class="col-md-4">
+		<a href="{{ post.url }}">
+			<img src="/images/{{ post.feature }}" alt="{{ post.title }}" style="width:400px;height:300px">
+		</a>
+	</div>
+{% endfor %}
+</div>
