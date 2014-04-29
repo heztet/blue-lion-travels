@@ -14,7 +14,7 @@ title: Blue Lion Travels
 <div class="row">
 {% for post in site.posts %}
 	<div class="col-md-4">
-		<a href="{{ post.url }}">
+		<a href="{{ site.baseurl }}{{ post.url }}">
 			<img src="{{ site.baseurl }}/images/{{ post.feature }}" alt="{{ post.title }}" style="width:400px;height:300px">
 		</a>
 	</div>
