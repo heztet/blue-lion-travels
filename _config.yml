@@ -19,7 +19,7 @@ highlighter: pygments
 
 relative_permalinks: true
 
-permalink:     /blue-lion-travels/:title.html
+permalink:     :title.html
 paginate_path: 'page:num'
 paginate:      9
 
