@@ -33,7 +33,7 @@ The state capital of Hawaii, Honolulu is located on the island of Oahu. Honolulu
 <div class="col-md-6">
 
 <h3>Why Honolulu?</h3>
-The city of Honolulu saw arguably one of the most important events of the Second World War. In the beginning, the United States preferred to stay out of the war for both domestic and economic reasons. While the Zimmerman Note, an offered deal between Germany and Mexico, led some to believe the US should enter the war, only the attack on Pearl Harbor on December 7, 1941, would push the United States to fully join the Allies side. Because the Japanese attack on Pearl Harbor was the first attack on US soil since the Mexican-American war, the US experienced a major emotional outcry from its citizens and led Congress to declare war on the Empire of Japan. The Axis powers soon declared war on the US afterwards. Honolulu is an important site to visit because it hosted the event that pushed America into one of the most world-consuming events in the HISTORY OF EVER.
+The city of Honolulu saw arguably one of the most important events of the Second World War. In the beginning, the United States preferred to stay out of the war for both domestic and economic reasons. The attack on Pearl Harbor on December 7, 1941, pushed the United States to fully join the Allies side. Because the Japanese attack on Pearl Harbor was the first attack on US soil since the Mexican-American war, the US experienced a major emotional outcry from its citizens and led Congress to declare war on the Empire of Japan. The Axis powers soon declared war on the US afterwards. Honolulu is an important site to visit because it hosted the event that pushed America into one of the most world-consuming events in the HISTORY OF EVER.
 
 </div>
 </div><!-- /row -->
