@@ -46,7 +46,7 @@ Birmingham was one of the major cities in the Civil Rights Movement. In 1963, th
 <div class="col-md-6">
 
 <h3>16th Street Baptist Church</h3>
-One of the most popular locations in Birmingham is the 16th Street Baptist Church. Founded in 1873 as the First Colored Baptist Church of Birmingham, the building was designed by Wallace Rayfield. His goal was to create a combination of Roman and Byzantine structures. The church is a National Historic Landmark for its part in the Civil Rights Movement, and it is visited by about 2,000 people every week. 
+One of the most popular locations in Birmingham is the 16th Street Baptist Church. Founded in 1873 as the First Colored Baptist Church of Birmingham, the building was designed by Wallace Rayfield. His goal was to create a combination of Roman and Byzantine structures. The church is a National Historic Landmark for its part in the Civil Rights Movement, and it is visited by about 2,000 people every week. The buiding, an icon of the racial tensions during the time of the Civil Rights Movement, is still open today (and would be a great place to sleep.)
 
 <br /><br />
 
@@ -56,7 +56,7 @@ One of the most popular locations in Birmingham is the 16th Street Baptist Churc
 
 <div class="col-md-6">
 
-<h3>National Military Park</h3>
+<h3>Civil Rights Institute</h3>
 The Birmingham Civil Rights Institute is a museum and research center that focuses on the story of the Civil Rights Movement in America. The institute has a "living institution" section that uses statues and settings of the past to teach its visitors how to protect basic human rights. In addition, the museum has a exhibit that highlights the contributions of Birmingham to the Civil Rights Movement as a whole. The institute can also be used for meetings, seminars, workshops, and meet-ups for anyone who applies.
 
 <br /><br />

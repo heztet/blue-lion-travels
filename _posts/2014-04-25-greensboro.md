@@ -48,7 +48,7 @@ The sit-in movement, starting with a lunch counter in Greensboro, gave power to 
 
 <h3>Civil Rights Center</h3>
 The International Civil Rights Center & Museum in Greensboro, North Carolina, is in the old Woolworth's that started the Civil Rights Sit-in Movement. Established in 2001, the museum is located on 134 Elm Street in downtown Greensboro. Unfortunately, even though the center receives millions in donations every year, it has had financial issues in the past. 
-Every year the museum also hosts an annual Black and White Ball with themes like "Make a Change" and "Celebrating Our Victories."
+Every year the museum also hosts an annual Black and White Ball with themes like "Make a Change" and "Celebrating Our Victories." While the building itself has changed purposes, it still remains as the beginning of the sit-ins during the Civil Rights Movement and would be a great place to spend the night.
 
 <br /><br />
 
