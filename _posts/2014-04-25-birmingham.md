@@ -1,7 +1,7 @@
 ---
 layout: location
 title: Birmingham, Alabama
-feature: birmingham/main.jpg
+feature: birmingham/resized/main.jpg
 ---
 Birmingham, Alabama
 -------------------

@@ -1,7 +1,7 @@
 ---
 layout: location
 title: Greensboro, North Carolina
-feature: greensboro/main.jpg
+feature: greensboro/resized/main.jpg
 ---
 Greensboro, North Carolina
 --------------------------
