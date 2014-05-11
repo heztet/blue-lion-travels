@@ -1,7 +1,7 @@
 ---
 layout: location
 title: Honolulu
-feature: pearl-harbor/main.jpg
+feature: pearl-harbor/resized/main.jpg
 ---
 Honolulu
 ----------

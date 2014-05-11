@@ -18,22 +18,40 @@
     </head>
     <body>
       
-      <div class="container">
+      	<div class="container">
 
-      <div class="header">
-        <ul class="nav nav-pills pull-right">
-          <li class="active"><a href="{{ site.baseurl }}">Home</a></li>
-          <li><a href="{{ site.baseurl }}/about.html">About</a></li>
-          <li><a href="{{ site.baseurl }}/contact.html">Contact</a></li>
-        </ul>
-        <h3 class="text-muted">Blue Lion Travels</h3>
-        <hr>
-      </div> <!-- /header -->
+      	<div class="header">
+        	<ul class="nav nav-pills pull-right">
+          		<li class="active"><a href="{{ site.baseurl }}">Home</a></li>
+          		<li><a href="{{ site.baseurl }}/about.html">About</a></li>
+          		<li><a href="{{ site.baseurl }}/contact.html">Contact</a></li>
+        	</ul>
+        	<h3 class="text-muted">Blue Lion Travels</h3>
+        	<hr>
+      	</div> <!-- /header -->
 
-      {{ content }}
+      	{{ content }}
 
-      </div> <!-- /container -->
+      	<br><br>
 
-      
+      	
+      	<div class="btn-group row">
+        	{% if page.previous %}
+                <div class="col-md-6">
+                <a href="{{ site.baseurl }}{{ page.previous.url }}"><button type="button" class="btn btn-default">&lt Back</button></a>
+            	</div>
+        	{% endif %}
+
+        	{% if page.next %}
+                <div class="col-md-6">
+                <a href="{{ site.baseurl }}{{ page.next.url }}"><button type="button" class="btn btn-default">Next &gt</button></a>
+            	</div>
+        	{% endif %}
+       	</div>
+       	</div>
+
+       	<br><br>
+
+       	</div> <!-- /container -->
     </body>
 </html>

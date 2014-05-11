@@ -1,7 +1,7 @@
 ---
 layout: location
 title: Versailles
-feature: versailles/main.jpg
+feature: versailles/resized/main.jpg
 ---
 Versailles, France
 ------------------
