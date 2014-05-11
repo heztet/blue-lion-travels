@@ -1,57 +1,23 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>{{ page.title }}</title>
-        <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon.ico" />
+---
+layout: default
+---
 
-        <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+{{ content }}
 
-        <!-- Optional theme -->
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+<br><br>
 
-        <!-- Latest compiled and minified JavaScript -->
-        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-    </head>
-    <body>
-      
-      	<div class="container">
+<div class="btn-group row">
+	{% if page.previous %}
+        <div class="col-md-6">
+        <a href="{{ site.baseurl }}{{ page.previous.url }}"><button type="button" class="btn btn-default">&lt Back</button></a>
+    	</div>
+	{% endif %}
 
-      	<div class="header">
-        	<ul class="nav nav-pills pull-right">
-          		<li class="active"><a href="{{ site.baseurl }}">Home</a></li>
-          		<li><a href="{{ site.baseurl }}/about.html">About</a></li>
-          		<li><a href="{{ site.baseurl }}/contact.html">Contact</a></li>
-        	</ul>
-        	<h3 class="text-muted">Blue Lion Travels</h3>
-        	<hr>
-      	</div> <!-- /header -->
+	{% if page.next %}
+        <div class="col-md-6">
+        <a href="{{ site.baseurl }}{{ page.next.url }}"><button type="button" class="btn btn-default">Next &gt</button></a>
+    	</div>
+	{% endif %}
+</div>
 
-      	{{ content }}
-
-      	<br><br>
-
-      	
-      	<div class="btn-group row">
-        	{% if page.previous %}
-                <div class="col-md-6">
-                <a href="{{ site.baseurl }}{{ page.previous.url }}"><button type="button" class="btn btn-default">&lt Back</button></a>
-            	</div>
-        	{% endif %}
-
-        	{% if page.next %}
-                <div class="col-md-6">
-                <a href="{{ site.baseurl }}{{ page.next.url }}"><button type="button" class="btn btn-default">Next &gt</button></a>
-            	</div>
-        	{% endif %}
-       	</div>
-       	</div>
-
-       	<br><br>
-
-       	</div> <!-- /container -->
-    </body>
-</html>
+<br><br>
