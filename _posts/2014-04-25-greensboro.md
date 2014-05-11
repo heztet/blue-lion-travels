@@ -26,14 +26,14 @@ Greensboro, North Carolina
 <div class="col-md-6">
 
 <h3>Basic Information</h3>
-The third-largest city in North Carolina, Greensboro has a population of about 277,080. The town was founded in 1808 bear a central courthouse square to replace Guilford Court House town as the local county seat.  Its economy is primarily based textiles, tobacco, and furniture. In recent years, FedEx has based a large portion of their regional operations in the city.
+The third-largest city in North Carolina, Greensboro has a population of about 277,080. The town was founded in 1808 near a central courthouse square to replace Guilford Court House town as the local county seat.  Its economy is primarily based textiles, tobacco, and furniture. In recent years, FedEx has based a large portion of their regional operations in the city.
 
 </div>
 
 <div class="col-md-6">
 
 <h3>Why Greensboro?</h3>
-Greensboro was extremely important during the Civil Rights Movement. When four African American college students, Joseph McNeil, Franklin McCain, Ezell Blair, Jr., and David Richmond, sat down at a local Woolworth five-and-dime store and waited to be served. The lunch counter refused to serve the men and asked them to leave. The next day, more students joined the sit-in from various colleges around the city. By the end of the week, sit-ins were taking place all over North Carolina. The sit-in movement also spread to places like Kentucky, Virginia, and Nashville. Because Woolworth's profits decreased by 33 percent, the business was forced to desegregate. In addition, the sit-ins received national media and government attention. 
+Greensboro was extremely important during the Civil Rights Movement. Four African American college students, Joseph McNeil, Franklin McCain, Ezell Blair, Jr., and David Richmond, sat down at a local Woolworth five-and-dime store and waited to be served. The lunch counter refused to serve the men and asked them to leave. The next day, more students joined the sit-in from various colleges around the city. By the end of the week, sit-ins were taking place all over North Carolina. The sit-in movement also spread to places like Kentucky, Virginia, and Nashville. Because Woolworth's profits decreased by 33 percent, the business was forced to desegregate. In addition, the sit-ins received national media and government attention. 
 The sit-in movement, starting with a lunch counter in Greensboro, gave power to college students in the Civil Rights Movement through peaceful demonstrations.
 
 </div>
