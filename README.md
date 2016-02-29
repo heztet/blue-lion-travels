@@ -1,1 +1,1 @@
-Extra credit for APUSH using Ruby and Jekyll.
+This website was written as an extra credit assignment for my AP United States History class. It features a combination of a blog site (from the Jekyll structure) and a main page that resembles a tourist travel site.
